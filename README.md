@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Media Systems Engineer from London with a background in Media Asset Management & VMS systems.</p>
+<p align="left">Media Systems Engineer with a background in Media Asset Management & VMS systems.</p>
 
 ###
 
