@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Media Systems Engineer with a background in Media Asset Management & VMS systems.</p>
+<p align="left">Media Systems Engineer with a background in DAM/MAM systems and pipeline engineering.</p>
 
 ###
 
