@@ -6,19 +6,17 @@
 
 <h1 align="left">Welcome to my GitHub profile</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrievx.adrievx&"  />
-</div>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">Media Systems Engineer with a background in Media Asset Management & VMS systems.</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrievx.adrievx&"  />
+</div>
 
 ###
 
