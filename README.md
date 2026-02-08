@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Media Systems Engineer with a background in DAM/MAM systems and pipeline engineering.</p>
+<p align="left">Media Systems Engineer / Software Developer with a background in MAM/DAM systems, broadcast and pipeline engineering.</p>
 
 ###
 
