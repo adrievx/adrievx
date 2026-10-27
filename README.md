@@ -1,26 +1,56 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+## About me
 
-###
+My name is Adrien, I'm a media systems engineer, software engineer, archivist, embedded hardware engineer, security researcher and quite a bit more. I started programming when I was 5, starting with things like Flash and Adobe Director, since then I've amassed a large skillset in various fields, a few of which I mention here.
 
-<h1 align="left">Welcome to my GitHub profile</h1>
+### The main fields I specialize in
+- Media systems engineering (building and maintaining MAM/DAM systems, broadcast playout, VOD, OB, digital asset migration and much more)
+- Maintaining legacy systems (in various sectors, from retail to aerospace; various languages/frameworks such as VB6, Visual FoxPro, Silverlight, Delphi, JSP, etc.)
+- Software and hardware engineering (desktop applications, embedded systems/firmware development, RTOS)
+- Humanoid robotics (probably not the stuff you're thinking of)
+- Security research / redteam (pentesting, full-chain exploit development, etc.)
 
-<h2 align="left">About me</h2>
+### Stuff I used to do
+- Game development (custom engines, Unreal sometimes)
+- Tools development (game and animation pipelines)
 
-###
+### The main programming languages I use on a daily basis
+- C# (.NET Framework 4.5 and Compact Framework)
+- Java 8
+- ActionScript 3 (Adobe AIR)
+- C++ 11
+- Python
+- PHP
+- PowerShell
 
-<p align="left">Media Systems Engineer / Software Developer with a background in MAM/DAM systems, broadcast and pipeline engineering.</p>
+#### Various other languages I'm familiar with but don't use as often (by far not a complete list)
+- JavaScript
+- Lua
+- Delphi
+- Pascal
+- Fortran (77)
+- Ruby
+- Visual J++
+- Visual FoxPro
+- Objective C
+- 6502 Assembly
+- Bash
 
-###
+### The stuff I dabble in sometimes, and some of my hobbies mixed in
+- Web development (none of the modern stuff, mostly XHTML and Web 2.0-accurate sites)
+- Music composition (orchestral, ambient, various electronic genres)
+- Aviation (flight sims, avionics, stuff like that)
+- Photography
+- Photo and videeo editing
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrievx.adrievx&"  />
-</div>
+### Services I offer
+- Bespoke enterprise desktop app development (C#, Java, ActionScript/AIR, C++)
+- Game/film/TV pipeline tools development (C#, Python, C++)
+- Legacy systems maintenance and modernization (browser Flash, Fortran, Visual J++, Java, etc.)
+- Penetration testing (individual applications or your entire network)
+- Multiplayer game security hardening
+- a few other things, please contact me directly if you think I'd be a good fit.
 
-###
-
-<h2 align="left">Some of the tools/languages I work with</h2>
+### Some of the tools/languages I work with
 
 ###
 
